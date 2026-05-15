@@ -14,6 +14,7 @@ import { cn } from "@/lib/utils";
 const navLinks: { href: string; label: string }[] = [
   { href: '/', label: 'Inicio' },
   { href: '/sobre', label: 'Sobre' },
+  { href: '/servicos', label: 'Servicos' },
 ];
 
 export default function Navbar() {
