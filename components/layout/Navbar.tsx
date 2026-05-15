@@ -15,6 +15,7 @@ const navLinks: { href: string; label: string }[] = [
   { href: '/', label: 'Inicio' },
   { href: '/sobre', label: 'Sobre' },
   { href: '/servicos', label: 'Servicos' },
+  { href: '/contato', label: 'Contato' },
 ];
 
 export default function Navbar() {

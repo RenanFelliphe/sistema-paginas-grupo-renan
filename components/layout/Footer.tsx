@@ -11,7 +11,8 @@ const equipe: { nome: string; github: string }[] = [
   // ====== INÍCIO DA ÁREA DE EDIÇÃO COLABORATIVA ======
   {nome: "Renan Felliphe de M. D. Silva/Branch1", github: "RenanFelliphe"},
   {nome: "Renan Felliphe de M. D. Silva/Branch2", github: "RenanFelliphe"},
-  {nome: "Renan Felliphe de M. D. Silva/Branch3", github: "RenanFelliphe"}
+  {nome: "Renan Felliphe de M. D. Silva/Branch3", github: "RenanFelliphe"},
+  {nome: "Renan Felliphe de M. D. Silva/Branch4", github: "RenanFelliphe"},
   // ====== FIM DA ÁREA DE EDIÇÃO COLABORATIVA ======
 ];
 
