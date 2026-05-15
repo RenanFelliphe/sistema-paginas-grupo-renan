@@ -12,9 +12,7 @@ import { cn } from "@/lib/utils";
  *       { href: "/sua-rota", label: "Nome da Página" },
  */
 const navLinks: { href: string; label: string }[] = [
-  // ====== INÍCIO DA ÁREA DE EDIÇÃO COLABORATIVA ======
-
-  // ====== FIM DA ÁREA DE EDIÇÃO COLABORATIVA ======
+  { href: '/', label: 'Inicio' },
 ];
 
 export default function Navbar() {
